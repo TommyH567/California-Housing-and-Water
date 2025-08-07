@@ -41,7 +41,7 @@ Dashboards
 - Chart Type: Bar chart
 - Insights: Proximity to ocean or bay significantly increases house value.
 
-Overall Findings: 
+Overall Findings: So with the first graph, it shows me that the median house value is much higher in major cities like Los Angeles and San Francisco. The second graph shows that most households belong to those in the low-to-medium income bins. The 3rd graph shows that income and house value are positively correlated. And finally my last graph shows that houses near the ocean on average are worth more than houses that are not. All of this can be useful because it can help with potential marketing efforts on who to market a house towards, based on its location and value. It can also be useful for prospective home buyers, to see where they can/should buy a home based on their budget.
 
 ---
 
