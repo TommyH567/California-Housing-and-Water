@@ -30,7 +30,7 @@ Dashboards
 - Insights: Higher values are near major cities like San Francisco and Los Angeles.
 
 2. Income Distribution
-- Chart Type: Histogram (binned by `median_income`)
+- Chart Type: Histogram (binned by median_income)
 - Insights: Most households fall into low-to-middle income brackets, with a few in the very high-income bins.
 
 3. Income vs. House Value
