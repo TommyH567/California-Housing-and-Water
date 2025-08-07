@@ -17,11 +17,11 @@ Dataset
 - Source: [California Housing Prices - Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
 - Format: CSV
 - Key Features:
-  - `median_house_value`
-  - `median_income`
-  - `housing_median_age`
-  - `latitude`, `longitude`
-  - `ocean_proximity`
+  - median_house_value
+  - median_income
+  - housing_median_age
+  - latitude and longitude
+  - ocean_proximity
 
 Dashboards
 
