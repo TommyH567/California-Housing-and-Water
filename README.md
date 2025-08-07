@@ -41,7 +41,7 @@ Dashboards
 - Chart Type: Bar chart
 - Insights: Proximity to ocean or bay significantly increases house value.
 
-Overall Findings: -----
+Overall Findings: 
 
 ---
 
@@ -53,15 +53,15 @@ Visualize and analyze groundwater levels to highlight areas of water depletion o
 Dataset
 - Source: [Continuous Groundwater Level Measurements - Kaggle](https://www.kaggle.com/datasets/alifarahmandfar/continuous-groundwater-level-measurements-2023)
 - Files Used:
-  - `gwl-monthly.csv`
-  - `gwl-daily.csv`
-  - `gwl-stations.csv`
+  - gwl-monthly.csv
+  - gwl-daily.csv
+  - gwl-stations.csv
 - Key Variables:
-  - `MSMT_DATE`: Date of measurement
-  - `STATION`: Unique well ID
-  - `WLM_RPE`: Reference Point Elevation
-  - `GSE_WSE`: Depth from ground surface to water
-  - `WSE`: Water Surface Elevation
+  - MSMT_DATE: Date of measurement
+  - STATION: Unique well ID
+  - WLM_RPE: Reference Point Elevation
+  - GSE_WSE: Depth from ground surface to water
+  - WSE: Water Surface Elevation
 
 Dashboards
 
