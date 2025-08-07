@@ -68,7 +68,7 @@ Dashboards
 1. Groundwater Trends Over Time
 - Chart Type: Line chart (MSMT_DATE vs. WLM_RPE)
 - Insight: Identifies stations with long-term groundwater depletion trends.
-- Filter: Top 10 stations by # of records (to ensure consistency).
+- Filter: Top 10 stations by # of records (for consistency and more meaningful results).
 
 2. Water Surface Elevation quality by station
 - Chart Type: Scatter plot (WSE vs. # of records)
